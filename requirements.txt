@@ -1,0 +1,7 @@
+requests
+folium
+geopandas
+OWSLib
+pandas
+openpyxl
+reportlab
